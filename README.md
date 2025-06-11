@@ -1,1 +1,0 @@
-# paperid-take-home-test
